@@ -2,7 +2,7 @@
 <br>
 This project focuses on predicting the likelihood of heart disease based on a diverse set of health features extracted from patient data.
 
-Objective
+<h3>Objective</h3>
 The goal of this project was to develop a machine learning model that can accurately predict whether a patient is at risk of heart disease. The model categorizes patients into two groups: at risk or not at risk based on key health metrics such as age, cholesterol levels, blood pressure, and other relevant features.
 
 Approach
