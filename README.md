@@ -6,7 +6,7 @@ How to Use the Application You can access the heart disease predictor web applic
 The goal of this project was to develop a machine learning model that can accurately predict whether a patient is at risk of heart disease. The model categorizes patients into two groups: at risk or not at risk based on key health metrics such as age, cholesterol levels, blood pressure, and other relevant features.
 
 <h3>Approach</h3>
-1. Data Exploration and Preprocessing
+<h4>1. Data Exploration and Preprocessing</h4>
 <br>
 The project began with a thorough exploration and preprocessing of the dataset. This included handling missing values, encoding categorical variables, scaling numerical features, and ensuring data quality. Features were selected based on their relevance to heart disease prediction, such as:
 
