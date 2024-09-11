@@ -34,11 +34,11 @@ Recall
 F1 Score
 Cross-validation was used to ensure the model's robustness and prevent overfitting.
 
-</h4>3. Model Deployment</h4>
+<h4>3. Model Deployment</h4>
 
 The final model, which was a Random Forest Classifier, was deployed as an interactive web application using Streamlit. The app allows users to input various health metrics and receive real-time predictions on whether they are at risk of heart disease.
 
-</h4>4. Evaluation</h4>
+<h4>4. Evaluation</h4>
 The performance of the model was evaluated on a test dataset using the following metrics:
 
 Accuracy: The overall correctness of predictions.
@@ -46,7 +46,7 @@ Precision: The proportion of positive identifications that were actually correct
 Recall: The ability of the model to identify all positive cases.
 F1 Score: A balance between precision and recall.
 
-</h4>5. Key Features</h4>
+<h5>5. Key Features</h5>
 Interactive Web Application: The model has been deployed on a server using Streamlit, allowing users to easily input their health data and receive a heart disease risk prediction.
 Cross-Validation: Ensured that the model generalizes well to unseen data.
 Real-Time Prediction: The app provides instant results based on user inputs.
