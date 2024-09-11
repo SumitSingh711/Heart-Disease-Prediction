@@ -1,4 +1,4 @@
-<h1>Heart Disease Prediction Project<h1/>
+<h1>Heart Disease Prediction Project</h1>
 <br>
 This project focuses on predicting the likelihood of heart disease based on a diverse set of health features extracted from patient data.
 
