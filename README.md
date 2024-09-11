@@ -54,9 +54,6 @@ Real-Time Prediction: The app provides instant results based on user inputs.
 </h3>Conclusion</h3>
 This end-to-end heart disease prediction project demonstrates the potential of machine learning in the healthcare domain. It highlights the importance of data preprocessing, algorithm selection, and evaluation, while providing a practical tool that could assist in early detection of heart disease.
 
-How to Use the Application
-You can access the heart disease predictor web application here. Enter your health information such as age, cholesterol, and blood pressure to get an instant prediction.
-
 <h3>Technologies Used</h3>
 Python
 Pandas, NumPy for data manipulation
