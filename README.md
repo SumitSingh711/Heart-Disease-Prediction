@@ -57,7 +57,7 @@ This end-to-end heart disease prediction project demonstrates the potential of m
 How to Use the Application
 You can access the heart disease predictor web application here. Enter your health information such as age, cholesterol, and blood pressure to get an instant prediction.
 
-Technologies Used
+<h3>Technologies Used</h3>
 Python
 Pandas, NumPy for data manipulation
 Scikit-learn for machine learning models
