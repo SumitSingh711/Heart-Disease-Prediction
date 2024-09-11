@@ -51,7 +51,7 @@ Interactive Web Application: The model has been deployed on a server using Strea
 Cross-Validation: Ensured that the model generalizes well to unseen data.
 Real-Time Prediction: The app provides instant results based on user inputs.
 
-</h3>Conclusion</h3>
+<h3>Conclusion</h3>
 This end-to-end heart disease prediction project demonstrates the potential of machine learning in the healthcare domain. It highlights the importance of data preprocessing, algorithm selection, and evaluation, while providing a practical tool that could assist in early detection of heart disease.
 
 <h3>Technologies Used</h3>
