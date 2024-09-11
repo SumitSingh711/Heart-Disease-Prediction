@@ -1,7 +1,6 @@
 <h1>Heart Disease Prediction Project</h1>
 This project focuses on predicting the likelihood of heart disease based on a diverse set of health features extracted from patient data.
 
-How to Use the Application<br>
 You can access the heart disease predictor web application [here](https://heart-disease-prediction-xaavvcgce2wpmd4fay9wv4.streamlit.app/)<br>
 Enter your health information such as age, cholesterol, and blood pressure to get an instant prediction.
 
