@@ -34,7 +34,8 @@ Recall
 F1 Score
 Cross-validation was used to ensure the model's robustness and prevent overfitting.
 
-</h4>3. Model Deployment</h4> <br>
+</h4>3. Model Deployment</h4>
+
 The final model, which was a Random Forest Classifier, was deployed as an interactive web application using Streamlit. The app allows users to input various health metrics and receive real-time predictions on whether they are at risk of heart disease.
 
 </h4>4. Evaluation</h4>
