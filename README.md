@@ -10,28 +10,30 @@ The goal of this project was to develop a machine learning model that can accura
 <h3>Approach</h3>
 <h4>1. Data Exploration and Preprocessing</h4>
 The project began with a thorough exploration and preprocessing of the dataset. This included handling missing values, encoding categorical variables, scaling numerical features, and ensuring data quality. Features were selected based on their relevance to heart disease prediction, such as:
-
-Age
-Resting Blood Pressure
-Cholesterol
-Max Heart Rate
-Chest Pain Type
-Resting ECG
-
+<ul>
+<li>Age</li>
+<li>Resting Blood Pressure</li>
+<li>Cholesterol</li>
+<li>Max Heart Rate</li>
+<li>Chest Pain Type</li>
+<li>Resting ECG</li>
+</ul>
 <h4>2. Model Selection and Training</h4>
 Various classification algorithms were applied and evaluated for performance on this binary classification task. These algorithms included:
-
-Random Forest
-Support Vector Machine
-Logistic Regression
-K-Nearest Neighbors
-Decision Tree
+<ul>
+<li>Random Forest</li>
+<li>Support Vector Machine</li>
+<li>Logistic Regression</li>
+<li>K-Nearest Neighbors</li>
+<li>Decision Tree</li>
+</ul>
 Each model was tuned and tested to identify the best-performing one based on metrics like:
-
-Accuracy
-Precision
-Recall
-F1 Score
+<ul>
+<li>Accuracy</li>
+<li>Precision</li>
+<li>Recall</li>
+<li>F1 Score</li>
+</ul>
 Cross-validation was used to ensure the model's robustness and prevent overfitting.
 
 <h4>3. Model Deployment</h4>
@@ -55,8 +57,10 @@ Real-Time Prediction: The app provides instant results based on user inputs.
 This end-to-end heart disease prediction project demonstrates the potential of machine learning in the healthcare domain. It highlights the importance of data preprocessing, algorithm selection, and evaluation, while providing a practical tool that could assist in early detection of heart disease.
 
 <h3>Technologies Used</h3>
-Python
-Pandas, NumPy for data manipulation
-Scikit-learn for machine learning models
-Streamlit for deployment
-Matplotlib, Seaborn for visualizations
+<ul>
+<li>Python</li>
+<li>Pandas, NumPy for data manipulation</li>
+<li>Scikit-learn for machine learning models</li>
+<li>Streamlit for deployment</li>
+<li>Matplotlib, Seaborn for visualizations</li>
+</ul>
