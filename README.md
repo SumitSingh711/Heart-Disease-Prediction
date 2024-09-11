@@ -1,7 +1,9 @@
 <h1>Heart Disease Prediction Project</h1>
 This project focuses on predicting the likelihood of heart disease based on a diverse set of health features extracted from patient data.
-How to Use the Application 
-You can access the heart disease predictor web application [here]((https://heart-disease-prediction-xaavvcgce2wpmd4fay9wv4.streamlit.app/). Enter your health information such as age, cholesterol, and blood pressure to get an instant prediction.
+
+How to Use the Application
+You can access the heart disease predictor web application [here]((https://heart-disease-prediction-xaavvcgce2wpmd4fay9wv4.streamlit.app/). 
+Enter your health information such as age, cholesterol, and blood pressure to get an instant prediction.
 
 <h3>Objective</h3>
 The goal of this project was to develop a machine learning model that can accurately predict whether a patient is at risk of heart disease. The model categorizes patients into two groups: at risk or not at risk based on key health metrics such as age, cholesterol levels, blood pressure, and other relevant features.
